@@ -18,3 +18,18 @@ body {
 .bg-main {
     background-color: var(--main-color);
 }
+
+.logo {
+    height: 50px;
+    
+}
+
+.main-title {
+    text-align: center;
+
+}
+
+.main-description {
+    text-align: center;
+
+}
