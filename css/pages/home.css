@@ -1,6 +1,6 @@
 /* base */
-@import '../base/layout.css';
 @import '../base/base.css';
+@import '../base/layout.css';
 
 /* vendors */
 
@@ -17,10 +17,12 @@
 */
 
 .hero {
+    min-height: 100vh;
     background-image: url(../../img/background.png);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: bottom center;
     background-size: cover;
+    
 }
 
 .hero > .row-short {
