@@ -14,11 +14,8 @@
 }
 
 .column {
-    display: flex;
-    flex-direction: column;
     width: 50%;
     float: left;
-    gap: 30px;
 }
 .column-right {
     width: 40%;
