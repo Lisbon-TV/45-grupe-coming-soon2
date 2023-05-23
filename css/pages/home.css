@@ -22,6 +22,7 @@
     background-repeat: no-repeat;
     background-position: bottom center;
     background-size: cover;
+    background-attachment: fixed;
     
 }
 
@@ -48,6 +49,6 @@
 
 .main-description {
     text-align: center;
-    font-size: 16px;
+    font-size: 20px;
 
 }
